@@ -178,5 +178,3 @@ src/
 - Use Postman to test route-level validation quickly.
 
 ---
-
-If you want, I can also add a short `Postman` collection JSON with example requests for all endpoints. 👇
